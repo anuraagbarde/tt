@@ -10,7 +10,7 @@
 |Sun|   |   |   |   |   |   |   |   |   |   |
 
 
-Legend \br
-KKP-CC = Cloud Computing - K.K. Patnaik \br
-SNK-ML = Machine Learning - Sunil K. Kumar \br
+Legend \
+KKP-CC = Cloud Computing - K.K. Patnaik \
+SNK-ML = Machine Learning - Sunil K. Kumar \
  
