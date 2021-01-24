@@ -3,7 +3,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 |Mon|SNK-ML|KKP-CC|   |   |   |   |   |   |   |   |
 |Tue|SNK-ML|   |    |   |   |   |   |   |   |   |
-|Wed|SNK-ML|KKP-CC|    |   |   |   |   |   |   |   |
+ |Wed|SNK-ML|KKP-CC|    |PR-Mahua|   |   |   |   |   |   |
 |Thu|   |   |   |   |   |   |   |   |   |   |
 |Fri|   |KKP-CC|   |   |   |   |   |   |   |   |
 |Sat|   |   |   |   |   |   |   |   |   |   |
@@ -12,5 +12,6 @@
 
 Legend \
 KKP-CC = Cloud Computing - K.K. Patnaik \
-SNK-ML = Machine Learning - Sunil K. Kumar
+SNK-ML = Machine Learning - Sunil K. Kumar \
+PR-Mahua = Pattern Recognition
  
