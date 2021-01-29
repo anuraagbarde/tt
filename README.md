@@ -4,7 +4,7 @@
 |Mon|SNK-ML|KKP-CC|   |   |   |   |   |   |   |   |
 |Tue|SNK-ML|   |    |   |   |   |   |   |   |   |
  |Wed|SNK-ML|KKP-CC|    |    |   |    |   |   |   |   |
-|Thu|    |   |   |   |   |28janPR-Mahua|    |   |   |   |
+|Thu|    |   |   |   |   |    |    |   |   |   |
 |Fri|   |KKP-CC|   |   |   |   |   |   |   |   |
 |Sat|   |   |   |   |   |   |   |   |   |   |
 |Sun|   |   |   |   |   |   |   |   |   |   |
