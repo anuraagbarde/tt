@@ -1,4 +1,6 @@
 
+# Time Table
+
 |   |9-10|10-11|11-12|12-1|1-2|2-3|3-4|4-5|5-6|6-7|
 |---|---|---|---|---|---|---|---|---|---|---|
 |Mon|SNK-ML|KKP-CC|   |   |   |   |   |   |   |   |
@@ -15,4 +17,25 @@ KKP-CC = Cloud Computing - K.K. Patnaik \
 SNK-ML = Machine Learning - Sunil K. Kumar \
 PR-MB = Pattern Recognition - Mahua Bhattacharya\
 AS-GT = Graph Theory - Anuraj Singh
+
+## Alternate:
  
+* Monday:
+  * 9-10 --- Machine learning
+  * 10-11 ---- Cloud computing
+
+* Tuesday:
+  * 9-10 ---- Machine learning
+  * 12-1 ----- Graph theory
+
+* Wednesday:
+  * 9-10 ---- Machine learning
+  * 10-11 ------ Cloud computing 
+  * 12-1 ------- Graph theory
+
+* Thursday:
+No classes
+
+* Friday:
+  * 10-1 ---- Cloud computing
+  * 12-1 ---- Graph theory
