@@ -21,21 +21,21 @@ AS-GT = Graph Theory - Anuraj Singh
 ## Alternate:
  
 * Monday:
-  * 9-10 --- Machine learning
-  * 10-11 ---- Cloud computing
+  * 9-10   --- Machine learning
+  * 10-11 --- Cloud computing
 
 * Tuesday:
-  * 9-10 ---- Machine learning
-  * 12-1 ----- Graph theory
+  * 9-10  --- Machine learning
+  * 12-1  --- Graph theory
 
 * Wednesday:
-  * 9-10 ---- Machine learning
-  * 10-11 ------ Cloud computing 
-  * 12-1 ------- Graph theory
+  * 9-10  --- Machine learning
+  * 10-11 --- Cloud computing 
+  * 12-1  --- Graph theory
 
 * Thursday:
 No classes
 
 * Friday:
-  * 10-1 ---- Cloud computing
-  * 12-1 ---- Graph theory
+  * 10-1  --- Cloud computing
+  * 12-1  --- Graph theory
