@@ -6,7 +6,7 @@
 |Mon|SNK-ML|KKP-CC|   |   |   |   |   |   |   |   |
 |Tue|SNK-ML|   |    |AS-GT|   |   |   |   |   |   |
 |Wed|SNK-ML|KKP-CC|    |AS-GT|   |    |   |   |   |   |
-|Thu|4febSNK-ML|   |   |   |   |    |    |   |   |   |
+|Thu||   |   |   |   |    |    |   |   |   |
 |Fri|   |KKP-CC|   |AS-GT|   |   |   |   |   |   |
 |Sat|   |   |   |   |   |   |   |   |   |   |
 |Sun|   |   |   |   |   |   |   |   |   |   |
