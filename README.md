@@ -1,8 +1,5 @@
 ## Upcoming events
 
-* ML
-  * 21 Feb - ML asg (derivation)
-  * 21 Feb - ML asg (Lab-regression)
 * ML Viva expected last week of feb
 * 2 March GT minor - syllabus upto chap 5
 
