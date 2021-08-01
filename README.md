@@ -16,7 +16,3 @@
 
 
 Legend \
-KKP-CC = Cloud Computing - K.K. Patnaik \
-SNK-ML = Machine Learning - Sunil K. Kumar \
-PR-MB = Pattern Recognition - Mahua Bhattacharya\
-AS-GT = Graph Theory - Anuraj Singh
